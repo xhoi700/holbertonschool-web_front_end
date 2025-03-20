@@ -17,6 +17,7 @@
     --line-height-small: 1.2;
     --line-height-base: 1.5;
     --line-height-big: 1.8;
+    --section-header-align : center;
 }
 
 html{
@@ -44,7 +45,9 @@ a{
 .card-category{
     color: var(--color-primary);
 }
-
+.section-header{
+    horizontal- alignment
+}
 .section-tagline{
     color: var(--color-primary);
 }
