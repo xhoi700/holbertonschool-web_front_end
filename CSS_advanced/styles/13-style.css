@@ -44,10 +44,10 @@ a:link{
 }
 a:visited{
     font-style: italic;
-    text-decoration: underline;
 }
 a:hover{
     font-weight: bold;
+    text-decoration: underline;
 }
 a:active{
     background-color: var(--color-light-grey);
