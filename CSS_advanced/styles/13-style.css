@@ -48,7 +48,6 @@ a:visited{
 }
 a:hover{
     font-weight: bold;
-    color : 
 }
 a:active{
     background-color: var(--color-light-grey);
