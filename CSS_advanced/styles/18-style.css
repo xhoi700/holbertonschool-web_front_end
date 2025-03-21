@@ -443,7 +443,7 @@ a:active{
 
 .nav .nav-link{
     display: block;
-    /* padding: var(--); */
+    padding: 0.5rem 1rem;
 }
 
 .nav .nav-link:hover{
