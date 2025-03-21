@@ -423,9 +423,7 @@ a:active{
 }
 
 
-.navbar-menu{
-    float: right;
-}
+.navbar-menu{float: right;}
 
 .nav{
     margin: 0;
